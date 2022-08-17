@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Krisu2607
-- 👀 I’m interested in creating apps for mobiled
+- 👀 I’m interested in creating apps for mobiles
 - 🌱 I’m currently learning java language 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - gercuss@o2.pl 
